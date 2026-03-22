@@ -21,26 +21,6 @@ This Repository Contains an Online Copy of the `Guide` Section of my [FOSS Root 
 
 ---
 
-## HALL OF FAME 👍 : 
-
-// Will add Forked Repos which are genuinely good. 🤩 I will list everything Good about them.
-
----
-
-## HALL OF NEUTRALITY 😐 :
-
-// Will add Inactive Forks. Uh yeah that's it atleast it's Forking not Cloning! 😅
-
----
-
-## HALL OF SHAME 👎 :
-
-// Includes Clones who are working against the MIT Licence and Distributing Malware. All Flaws are mentioned. 😑
-
-- RuotianJoy/FOSS-Root-Checker (Cloned + Distributing Malware 👎 )
-
----
-
 ## ⚠️ IMPORTANT NOTICE ⚠️
 
 Please be aware: There are fraudulent repositories on GitHub that are cloning this project's name and using AI-generated readmes, but they contain **completely random and unrelated files in each release**. These are NOT official versions of this project.
