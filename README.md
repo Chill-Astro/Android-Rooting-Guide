@@ -8,9 +8,11 @@
   
 This Repository Contains an Online Copy of the `Guide` Section of my [FOSS Root Checker](https://github.com/Chill-Astro/FOSS-Root-Checker) Project for Easy Access from Computers.
 
-| GitHub Releases | SourceForge | Appteka |
-| :---: | :---: | :---: |
-| <a href="https://github.com/Chill-Astro/FOSS-Root-Checker/releases/latest" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=Get%20it%20on%20GitHub&color=2ECC71&labelColor=000000&style=for-the-badge&logo=github&logoColor=2ECC71" height="80" alt="Get it on GitHub"></a> |<a href="https://sourceforge.net/projects/foss-root-checker/" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=Get%20it%20on%20SourceForge&color=EE7034&labelColor=000000&style=for-the-badge&logo=sourceforge&logoColor=EE7034" height="80" alt="Get it on SourceForge"></a> | <a href="https://appteka.store/apps/568r276436" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=Get%20it%20on%20Appteka&color=2ECC71&labelColor=000000&style=for-the-badge&logo=android&logoColor=2ECC71" height="80" alt="Get it on Appteka"></a> |
+<a href="https://github.com/Chill-Astro/FOSS-Root-Checker/releases/latest" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=GitHub&color=FFFFFF&labelColor=000000&style=for-the-badge&logo=github&logoColor=FFFFFF" height="80" alt="GitHub"></a> 
+<a href="https://sourceforge.net/projects/foss-root-checker/" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=SourceForge&color=EE7034&labelColor=000000&style=for-the-badge&logo=sourceforge&logoColor=EE7034" height="80" alt="SourceForge"></a> 
+<a href="https://appteka.store/apps/568r276436" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=Appteka&color=2ECC71&labelColor=000000&style=for-the-badge&logo=android&logoColor=2ECC71" height="80" alt="Appteka"></a> 
+
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroidButtonGreyBorder_nofont.png" height="80" alt="Get it at IzzyOnDroid">](https://apt.izzysoft.de/packages/foss.chillastro.root.checker.offline)
 
 </div>
 
@@ -18,6 +20,8 @@ This Repository Contains an Online Copy of the `Guide` Section of my [FOSS Root 
 > This Project is not Affiliated with Google, Magisk, and other Open Source / Closed Source Referenced in this Project. Certain Brands mentioned are for General Information Only.
 
 ---
+
+# Chill-Astro Presents : The GOATED Rooting Guide! 🐐🐐🐐🐐🐐🐐
 
 ## 1. Rooting: An Introduction
 
