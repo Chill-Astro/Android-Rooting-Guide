@@ -10,7 +10,7 @@ This Repository Contains an Online Copy of the `Guide` Section of my [FOSS Root 
 
 <a href="https://github.com/Chill-Astro/FOSS-Root-Checker/releases/latest" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=GitHub&color=FFFFFF&labelColor=000000&style=for-the-badge&logo=github&logoColor=FFFFFF" height="80" alt="GitHub"></a> 
 <a href="https://sourceforge.net/projects/foss-root-checker/" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=SourceForge&color=EE7034&labelColor=000000&style=for-the-badge&logo=sourceforge&logoColor=EE7034" height="80" alt="SourceForge"></a> 
-<a href="https://appteka.store/apps/568r276436" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=Appteka&color=2ECC71&labelColor=000000&style=for-the-badge&logo=android&logoColor=2ECC71" height="80" alt="Appteka"></a> 
+<a href="https://appteka.store/apps/760r278239" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=Appteka&color=2ECC71&labelColor=000000&style=for-the-badge&logo=android&logoColor=2ECC71" height="80" alt="Appteka"></a> 
 
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroidButtonGreyBorder_nofont.png" height="80" alt="Get it at IzzyOnDroid">](https://apt.izzysoft.de/packages/foss.chillastro.root.checker.offline)
 
@@ -373,6 +373,26 @@ Haha, what an irony! 💀 A FOSS app recommending closed-source modules! Peak lo
 * [NoHello by @MhmRdd](https://github.com/MhmRdd/NoHello)
 * [Tricky Store OSS by @beakthoven](https://github.com/beakthoven/TrickyStoreOSS)
 * [Zygisk Assistant by @snake-4](https://github.com/snake-4/Zygisk-Assistant)
+
+---
+
+## HALL OF FAME 👍 : 
+
+// Will add Forked Repos which are genuinely good. 🤩 I will list everything Good about them.
+
+---
+
+## HALL OF NEUTRALITY 😐 :
+
+// Will add Inactive Forks. Uh yeah that's it atleast it's Forking not Cloning! 😅
+
+- philipprochazka/Android-Rooting-Guide
+
+---
+
+## HALL OF SHAME 👎 :
+
+// Includes Clones who are working against the MIT Licence and Distributing Malware. All Flaws are mentioned. 😑
 
 ---
 
