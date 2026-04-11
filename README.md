@@ -387,6 +387,7 @@ Haha, what an irony! 💀 A FOSS app recommending closed-source modules! Peak lo
 // Will add Inactive Forks. Uh yeah that's it atleast it's Forking not Cloning! 😅
 
 - philipprochazka/Android-Rooting-Guide
+- vloco2417-lab/Android-Rooting-Guide
 
 ---
 
