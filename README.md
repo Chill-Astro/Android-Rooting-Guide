@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>  
-    <img width="1920" height="1080" alt="Android Rooting Guide Promo" src="https://github.com/user-attachments/assets/60ba4ead-4ae6-46e8-bd35-adfac108c3a9" />
+    <img alt="Android Rooting Guide Promo" src="https://github.com/user-attachments/assets/60ba4ead-4ae6-46e8-bd35-adfac108c3a9" />
   </kbd>
 </p>
 
