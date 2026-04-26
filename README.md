@@ -1,46 +1,19 @@
 <p align="center">
-  <kbd>
-  <img width="1920" height="1080" alt="Rooting Revolution" src="https://github.com/user-attachments/assets/fc8d67f6-df19-496b-9960-60786e22886d" />
+  <kbd>  
+    <img width="1920" height="1080" alt="Android Rooting Guide Promo" src="https://github.com/user-attachments/assets/60ba4ead-4ae6-46e8-bd35-adfac108c3a9" />
   </kbd>
 </p>
 
 <div align="center">
 
-This Repository Contains an Online Copy of the `Guide` Section of my [FOSS Root Checker](https://github.com/Chill-Astro/FOSS-Root-Checker) Project for Easy Access from Computers.
+This Repository Contains an Online Copy of the `Guide` Section of Project : [FOSS Root Checker](https://github.com/Chill-Astro/FOSS-Root-Checker) for Easy Access from Computers.
 
-_- DOWNLOAD NOW! -_
-
-<a href="https://github.com/Chill-Astro/FOSS-Root-Checker/releases/latest" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=GitHub&color=FFFFFF&labelColor=000000&style=for-the-badge&logo=github&logoColor=FFFFFF" height="80" alt="GitHub"></a> 
-<a href="https://sourceforge.net/projects/foss-root-checker/" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=SourceForge&color=EE7034&labelColor=000000&style=for-the-badge&logo=sourceforge&logoColor=EE7034" height="80" alt="SourceForge"></a> 
-<a href="https://appteka.store/apps/760r278239" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=Appteka&color=2ECC71&labelColor=000000&style=for-the-badge&logo=android&logoColor=2ECC71" height="80" alt="Appteka"></a> 
-<a href="https://www.androidfreeware.net/download-root-checker-apk.html" target="_blank"><img src="https://img.shields.io/static/v1?label=%20&message=ANDROIDFREEWARE.NET&color=3498DB&labelColor=000000&style=for-the-badge&logo=android&logoColor=3498DB" height="80" alt="AndroidFreeware.net"></a>
-
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroidButtonGreyBorder_nofont.png" height="80" alt="Get it at IzzyOnDroid">](https://apt.izzysoft.de/packages/foss.chillastro.root.checker.offline)
-
-<a href='https://foss-chillastro-root-checker.en.uptodown.com/android' title='Download Root Checker' ><img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download Root Checker'></a>
-
-<a href="https://www.openapk.net/root-checker/foss.chillastro.root.checker.offline/"><img src="https://www.openapk.net/images/openapk-badge.png" height="82" alt="OpenAPK.net"></a>
-
----
+I hope that this Project helps in your Journey to Break Corporate Shackles!
 
 </div>
 
 > [!IMPORTANT]
 > This Project is not Affiliated with Google, Magisk, and other Open Source / Closed Source Referenced in this Project. Certain Brands mentioned are for General Information Only.
-
----
-
-## TRAILER on @chill-astro-sfs :
-
-<div align="center">
-  <kbd>
-  <a href="https://www.youtube.com/watch?v=ikYPs2zk7Yc">
-    <img src="https://img.youtube.com/vi/ikYPs2zk7Yc/maxresdefault.jpg" alt="Watch the FOSS Root Checker Trailer"style="border-radius:10px;">
-    <br>
-    <b><h3>▶ Click to Watch the Official Trailer</h3></b>
-  </a>
-</kbd>
-</div>
 
 ---
 
@@ -88,7 +61,7 @@ Rooting an Android device means gaining full administrative (superuser) control,
 The **Bootloader** is the first piece of software that runs every time you turn on your Android device. It acts as a security guard and a guide, directing the hardware on how to start up and which operating system to "hand off" control to. This is locked by default to ensure stability and prevent malware from infecting the device.
 
 ---
-# What is Bricking?
+## What is Bricking?
 Bricking refers to a device becoming completely non-functional, usually due to a corrupted software update or a failed firmware modification.
 
 ### Types of Bricking and How to Fix Them
