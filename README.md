@@ -372,24 +372,18 @@ Haha, what an irony! 💀 A FOSS app recommending closed-source modules! Peak lo
 
 ---
 
-## HALL OF FAME 👍 : 
+## HALL OF FORKERS :
 
-// Will add Forked Repos which are genuinely good. 🤩 I will list everything Good about them.
-
----
-
-## HALL OF NEUTRALITY 😐 :
-
-// Will add Inactive Forks. Uh yeah that's it atleast it's Forking not Cloning! 😅
+// Will add Inactive Forks. Uh yeah that's it atleast it's Forking not Cloning!
 
 - philipprochazka/Android-Rooting-Guide
 - vloco2417-lab/Android-Rooting-Guide
 
 ---
 
-## HALL OF SHAME 👎 :
+## HALL OF SHAME :
 
-// Includes Clones who are working against the MIT Licence and Distributing Malware. All Flaws are mentioned. 😑
+// Includes Clones who are working against the MIT Licence and Distributing Malware. All Flaws are mentioned.
 
 ---
 
