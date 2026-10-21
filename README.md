@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>  
-    <img alt="Android Rooting Guide Promo" src="https://github.com/user-attachments/assets/60ba4ead-4ae6-46e8-bd35-adfac108c3a9" />
+    <img alt="Android Rooting Guide Promo" src="https://chill-astro.github.io/assets/images/root-hero.webp" />
   </kbd>
 </p>
 
